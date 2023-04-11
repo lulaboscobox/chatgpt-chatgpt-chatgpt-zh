@@ -38,7 +38,7 @@
 | - | - | - |
 | [大神 秋葉aaaki](https://space.bilibili.com/12566101?spm_id_from=333.337.0.0) | [AI次世代](https://space.bilibili.com/435304165) | [AIGC大玩家](https://space.bilibili.com/385236524) |
 | [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) | [极市平台](https://space.bilibili.com/85300886/) |
-|  |  |  |
+| [爱可可-爱生活 微博同名](https://space.bilibili.com/23852932?spm_id_from=333.788.b_765f7570696e666f.2) |  |  |
 
 N个优秀微博
 
