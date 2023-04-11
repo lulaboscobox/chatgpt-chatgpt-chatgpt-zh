@@ -98,67 +98,67 @@
 
 - http://deeplearningbook.org 的主要作者
 
-17. Aakanksha Chowdhery (@achowdhery) 
+17. Aakanksha Chowdhery （@achowdhery) [https://twitter.com/achowdhery](https://twitter.com/achowdhery) 
 
   - PaLM Lead at Google Brain 
 
-18. Peter H. Diamandis, MD (@PeterDiamandis) 
+18. Peter H. Diamandis, MD （@PeterDiamandis) [https://twitter.com/PeterDiamandis](https://twitter.com/PeterDiamandis) 
 
   - Founder of Singularity University, Xprize, Fountainlife
 
   - Entrepreneur, Investor and Author
 
-19. Gary Marcus (@GaryMarcus) 
+19. Gary Marcus （@GaryMarcus) [https://twitter.com/GaryMarcus](https://twitter.com/GaryMarcus) 
 
   - Author of Rebooting.AI & Guitar Zero
 
   - Founder of Geometric Intelligence (acq. by Uber) & RobustAI
 
-20. Lucas Beyer (@giffmana)
+20. Lucas Beyer （@giffmana) [https://twitter.com/giffmana](https://twitter.com/giffmana)
 
   - Researcher at Google Brain in Zürich
 
-21. Sebastian Raschka (@rasbt) 
+21. Sebastian Raschka （@rasbt) [https://twitter.com/rasbt](https://twitter.com/rasbt) 
 
   - Author of Ahead of AI 
 
   - Machine learning & AI researcher
 
-22. Cassie Kozyrkov (@quaesita) 
+22. Cassie Kozyrkov （@quaesita) [https://twitter.com/quaesita](https://twitter.com/quaesita) 
 
   - Chief Decision Scientist at Google 
 
-23. Kate Kaye (@KateKayeReports) 
+23. Kate Kaye （@KateKayeReports) [https://twitter.com/KateKayeReports](https://twitter.com/KateKayeReports) 
 
   - Independent Journalist 
 
   - Formerly Protocol)
 
-24. Emad (@EMostaque) 
+24. Emad （@EMostaque) [https://twitter.com/EMostaque](https://twitter.com/EMostaque) 
 
   - Founder of Stability A.I. 
 
-25. Fei-Fei Li (@drfeifei) 
+25. Fei-Fei Li （@drfeifei) [https://twitter.com/drfeifei](https://twitter.com/drfeifei) 
 
   - Co-Director at Stanford Human-Centered Artificial Intelligence 
 
   - Co-Founder and Chair of AI4Allorg
 
-26. Jim Fan (@DrJimFan) 
+26. Jim Fan （@DrJimFan) [https://twitter.com/DrJimFan](https://twitter.com/DrJimFan) 
 
   - AI Scientist at Nvidia 
 
-27. Elvis Saravia (@omarsar0 ) 
+27. Elvis Saravia （@omarsar0 ) [https://twitter.com/omarsar0 ](https://twitter.com/omarsar0 ) 
 
   - Builder of DAIR AI
 
   - Former Scientist at Meta AI and Elastic
 
-28. Connie Chan (@conniechan) 
+28. Connie Chan （@conniechan) [https://twitter.com/conniechan](https://twitter.com/conniechan) 
 
   - General Partner at a16z 
 
-29. Hugo Larochelle (@hugo_larochelle) 
+29. Hugo Larochelle （@hugo_larochelle) [https://twitter.com/hugo_larochelle](https://twitter.com/hugo_larochelle) 
 
   - Researcher at Google Brain
 
@@ -166,25 +166,25 @@
 
   - Ex-Twitter Cortex 
 
-30. Benj Edwards (@benjedwards) 
+30. Benj Edwards （@benjedwards) [https://twitter.com/benjedwards](https://twitter.com/benjedwards) 
 
   - AI and ML Reporter, Ars Technica 
 
   - Tech Historian
 
-31. Becca Szkutak (@rebecca_szkutak) 
+31. Becca Szkutak （@rebecca_szkutak) [https://twitter.com/rebecca_szkutak](https://twitter.com/rebecca_szkutak) 
 
   - Journalist at Techcrunch 
 
-32. Sergey Levine (@svlevine) 
+32. Sergey Levine （@svlevine) [https://twitter.com/svlevine](https://twitter.com/svlevine) 
 
   - Professor at UCBerkeley 
 
-33. Eric Schmidt (@ericschmidt) 
+33. Eric Schmidt （@ericschmidt) [https://twitter.com/ericschmidt](https://twitter.com/ericschmidt) 
 
   - Former Google CEO 
 
-34. Ilya Sutskever (@ilyasut) 
+34. Ilya Sutskever （@ilyasut) [https://twitter.com/ilyasut](https://twitter.com/ilyasut) 
 
   - AGI at OpenAI 
 
