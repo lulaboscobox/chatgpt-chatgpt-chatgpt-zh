@@ -36,8 +36,8 @@
 5、N个优秀B站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
-| [莫烦Python](https://space.bilibili.com/243821484) | 机器之心 | 网易智能 |
-| 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
+| [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) |  |
+|  |  |  |
 
 N个优秀微博
 
@@ -59,7 +59,7 @@ N个优秀的国内网站
 
 | 资料名称 | 资料名称 | 资料名称|
 | - | - | - |
-| [吴恩达 神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2001392029&_trace_c_p_k2_=f85e75aff6924c14ad1e52555ad33ab1#/info) |   |  |
+| [吴恩达 神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2001392029&_trace_c_p_k2_=f85e75aff6924c14ad1e52555ad33ab1#/info) | [莫烦博客](https://mofanpy.com/) |  |
 |  |  |  |
 
 
