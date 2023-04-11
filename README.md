@@ -43,7 +43,7 @@ N个优秀微博
 
 | 微博名称 | 微博名称 | 微博名称|
 | - | - | - |
-| [爱可可-爱生活](https://weibo.com/fly51fly) |  |  |
+| [爱可可-爱生活](https://weibo.com/fly51fly) | [微软亚洲研究院](https://weibo.com/msra) | [52nlp](https://weibo.com/52nlp) |
 |  |  |  |
 
 
