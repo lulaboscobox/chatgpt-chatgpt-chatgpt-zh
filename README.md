@@ -36,6 +36,7 @@
 5、N个优秀B站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
+| [大神 秋葉aaaki](https://space.bilibili.com/12566101?spm_id_from=333.337.0.0) | [AI次世代](https://space.bilibili.com/435304165) | [AIGC大玩家}(https://space.bilibili.com/385236524) |
 | [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) | [极市平台](https://space.bilibili.com/85300886/) |
 |  |  |  |
 
