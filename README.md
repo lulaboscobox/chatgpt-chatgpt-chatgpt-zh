@@ -23,6 +23,7 @@
 | 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
 | AI科技评论 | AI科技评论 | AI科技评论 |
 | 人工智能那点事 | 图灵人工智能 | 人工智能爱好者社区 |
+| 人工智能机器人联盟 |
 
 
 5、N个优秀B站
@@ -31,11 +32,17 @@
 | 新智元 | 机器之心 | 网易智能 |
 | 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
 
+N个优秀的国内网站
+| B站名称 | B站名称 | B站名称|
+| - | - | - |
+| [量子位（公众号同名）](https://www.qbitai.com/) | [ACM通讯](https://cacm.acm.org/) | 网易智能 |
+| 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
+
 
 N个优秀的国外网站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
-| [创意技术文摘](https://creativetechnologydigest.substack.com/) | 机器之心 | 网易智能 |
+| [创意技术文摘](https://creativetechnologydigest.substack.com/) | [ACM通讯](https://cacm.acm.org/) | 网易智能 |
 | 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
 
 
