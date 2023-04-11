@@ -9,7 +9,11 @@
 
 
 
-3、100个ChatGPT调教指令网站
+3、N个优秀的ChatGPT调教指令网站
+
+| 指令网站 | 指令网站 | 指令网站 |
+| - | - | - |
+| https://www.explainthis.io/zh-hans/chatgpt | | |
 
 4、N个AI优秀公众号
 
