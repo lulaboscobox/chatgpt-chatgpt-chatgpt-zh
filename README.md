@@ -36,7 +36,7 @@
 5、N个优秀B站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
-| [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) |  |
+| [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) | [极市平台](https://space.bilibili.com/85300886/) |
 |  |  |  |
 
 N个优秀微博
