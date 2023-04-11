@@ -30,7 +30,7 @@
 | paperweekly | 我爱计算机视觉 | VALSE |
 | OpenCV学堂 | 有三AI | 凡人机器学习 |
 | 3D视觉工坊 | 人工智能学家 | 数据派THU |
-| DeepTech深科技 |
+| DeepTech深科技 | 智能机器人商情 |
 
 
 5、N个优秀B站
