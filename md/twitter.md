@@ -98,95 +98,95 @@
 
 - http://deeplearningbook.org 的主要作者
 
-17. Aakanksha Chowdhery （@achowdhery) [https://twitter.com/achowdhery](https://twitter.com/achowdhery) 
+17. 阿坎沙·乔杜里 （@achowdhery) [https://twitter.com/achowdhery](https://twitter.com/achowdhery)
 
-  - PaLM Lead at Google Brain 
+- 谷歌大脑的PaLM负责人
 
-18. Peter H. Diamandis, MD （@PeterDiamandis) [https://twitter.com/PeterDiamandis](https://twitter.com/PeterDiamandis) 
+18. 彼得 H. 迪亚曼迪斯，医学博士 （@PeterDiamandis) [https://twitter.com/PeterDiamandis](https://twitter.com/PeterDiamandis)
 
-  - Founder of Singularity University, Xprize, Fountainlife
+- 奇点大学、Xprize、Fountainlife创始人
 
-  - Entrepreneur, Investor and Author
+- 企业家、投资者和作家
 
-19. Gary Marcus （@GaryMarcus) [https://twitter.com/GaryMarcus](https://twitter.com/GaryMarcus) 
+19. 加里·马库斯 （@GaryMarcus) [https://twitter.com/GaryMarcus](https://twitter.com/GaryMarcus)
 
-  - Author of Rebooting.AI & Guitar Zero
+- 《Rebooting.AI 与吉他零》作者
 
-  - Founder of Geometric Intelligence (acq. by Uber) & RobustAI
+- Geometric Intelligence（Uber）和RobustAI的创始人
 
-20. Lucas Beyer （@giffmana) [https://twitter.com/giffmana](https://twitter.com/giffmana)
+20. 卢卡斯·拜尔 （@giffmana) [https://twitter.com/giffmana](https://twitter.com/giffmana)
 
-  - Researcher at Google Brain in Zürich
+- 苏黎世谷歌大脑研究员
 
-21. Sebastian Raschka （@rasbt) [https://twitter.com/rasbt](https://twitter.com/rasbt) 
+21. 塞巴斯蒂安·拉施卡 （@rasbt) [https://twitter.com/rasbt](https://twitter.com/rasbt)
 
-  - Author of Ahead of AI 
+- 《人工智能的领先》作者
 
-  - Machine learning & AI researcher
+- 机器学习和人工智能研究员
 
-22. Cassie Kozyrkov （@quaesita) [https://twitter.com/quaesita](https://twitter.com/quaesita) 
+22. 卡西·科济尔科夫 （@quaesita) [https://twitter.com/quaesita](https://twitter.com/quaesita)
 
-  - Chief Decision Scientist at Google 
+- 谷歌首席决策科学家
 
-23. Kate Kaye （@KateKayeReports) [https://twitter.com/KateKayeReports](https://twitter.com/KateKayeReports) 
+23. 凯特·凯 （@KateKayeReports) [https://twitter.com/KateKayeReports](https://twitter.com/KateKayeReports)
 
-  - Independent Journalist 
+- 独立记者
 
-  - Formerly Protocol)
+- 原协议）
 
-24. Emad （@EMostaque) [https://twitter.com/EMostaque](https://twitter.com/EMostaque) 
+24. 埃马德 （@EMostaque) [https://twitter.com/EMostaque](https://twitter.com/EMostaque)
 
-  - Founder of Stability A.I. 
+- 稳定人工智能创始人
 
-25. Fei-Fei Li （@drfeifei) [https://twitter.com/drfeifei](https://twitter.com/drfeifei) 
+25. 李飞飞 （@drfeifei) [https://twitter.com/drfeifei](https://twitter.com/drfeifei)
 
-  - Co-Director at Stanford Human-Centered Artificial Intelligence 
+- 斯坦福大学以人为中心的人工智能联合主任
 
-  - Co-Founder and Chair of AI4Allorg
+- AI4Allorg的联合创始人兼主席
 
-26. Jim Fan （@DrJimFan) [https://twitter.com/DrJimFan](https://twitter.com/DrJimFan) 
+26. 樊锦 （@DrJimFan) [https://twitter.com/DrJimFan](https://twitter.com/DrJimFan)
 
-  - AI Scientist at Nvidia 
+- 英伟达的人工智能科学家
 
-27. Elvis Saravia （@omarsar0 ) [https://twitter.com/omarsar0 ](https://twitter.com/omarsar0 ) 
+27. 猫王萨拉维亚 （@omarsar0 ) [https://twitter.com/omarsar0 ](https://twitter.com/omarsar0 )
 
-  - Builder of DAIR AI
+- DAIR AI的建造者
 
-  - Former Scientist at Meta AI and Elastic
+- Meta AI和Elastic的前科学家
 
-28. Connie Chan （@conniechan) [https://twitter.com/conniechan](https://twitter.com/conniechan) 
+28. 陈妍妍 （@conniechan) [https://twitter.com/conniechan](https://twitter.com/conniechan)
 
-  - General Partner at a16z 
+- A16Z的普通合伙人
 
-29. Hugo Larochelle （@hugo_larochelle) [https://twitter.com/hugo_larochelle](https://twitter.com/hugo_larochelle) 
+29. 雨果·拉罗谢尔 （@hugo_larochelle) [https://twitter.com/hugo_larochelle](https://twitter.com/hugo_larochelle)
 
-  - Researcher at Google Brain
+- 谷歌大脑研究员
 
-  - Machine learning professor
+- 机器学习教授
 
-  - Ex-Twitter Cortex 
+- 前推特皮层
 
-30. Benj Edwards （@benjedwards) [https://twitter.com/benjedwards](https://twitter.com/benjedwards) 
+30. 本杰·爱德华兹 （@benjedwards) [https://twitter.com/benjedwards](https://twitter.com/benjedwards)
 
-  - AI and ML Reporter, Ars Technica 
+- 人工智能和机器学习记者，Ars Technica
 
-  - Tech Historian
+- 技术历史学家
 
-31. Becca Szkutak （@rebecca_szkutak) [https://twitter.com/rebecca_szkutak](https://twitter.com/rebecca_szkutak) 
+31. 贝卡·斯库塔克 （@rebecca_szkutak) [https://twitter.com/rebecca_szkutak](https://twitter.com/rebecca_szkutak)
 
-  - Journalist at Techcrunch 
+- Techcrunch记者
 
-32. Sergey Levine （@svlevine) [https://twitter.com/svlevine](https://twitter.com/svlevine) 
+32. 谢尔盖·莱文 （@svlevine) [https://twitter.com/svlevine](https://twitter.com/svlevine)
 
-  - Professor at UCBerkeley 
+- 加州大学伯克利分校教授
 
-33. Eric Schmidt （@ericschmidt) [https://twitter.com/ericschmidt](https://twitter.com/ericschmidt) 
+33. 埃里克·施密特 （@ericschmidt) [https://twitter.com/ericschmidt](https://twitter.com/ericschmidt)
 
-  - Former Google CEO 
+- 前谷歌首席执行官
 
-34. Ilya Sutskever （@ilyasut) [https://twitter.com/ilyasut](https://twitter.com/ilyasut) 
+34. 伊利亚·苏茨卡弗 （@ilyasut) [https://twitter.com/ilyasut](https://twitter.com/ilyasut)
 
-  - AGI at OpenAI 
+- AGI at OpenAI
 
 35. 帕特里克·米诺特 （@patrickmineault) [https://twitter.com/patrickmineault](https://twitter.com/patrickmineault)
 
