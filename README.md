@@ -35,8 +35,8 @@
 N个优秀的国内网站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
-| [量子位（公众号同名）](https://www.qbitai.com/) | [ACM通讯](https://cacm.acm.org/) | 网易智能 |
-| 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
+| [量子位（公众号同名）](https://www.qbitai.com/) | [36氪](https://36kr.com/) |  |
+|  |  |  |
 
 
 N个优秀的国外网站
