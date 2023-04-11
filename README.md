@@ -43,7 +43,8 @@
 | [爱可可-爱生活 微博同名](https://space.bilibili.com/23852932?spm_id_from=333.788.b_765f7570696e666f.2) | [AIRS研究院](https://space.bilibili.com/602058860/)  | [JIG图图](https://space.bilibili.com/27032291/) |
 | [VALSE_Webinar](https://space.bilibili.com/562085182/) | [智源社区](https://space.bilibili.com/424100065/) | [微软科技](https://space.bilibili.com/110487933/) |
 | [knnstack](https://space.bilibili.com/246638813?spm_id_from=333.788.b_765f7570696e666f.2) | [AITIME论道](https://space.bilibili.com/503316308/) | [阿里达摩院扫地僧](https://space.bilibili.com/483104470/) |
-| [](https://space.bilibili.com/209732435/) |
+| [TechBeat人工智能社区](https://space.bilibili.com/209732435/) | [飞桨PaddlePaddle](https://space.bilibili.com/476867757/) | [公子龙龙龙](https://space.bilibili.com/492456340/) |
+
 
 N个优秀微博
 
