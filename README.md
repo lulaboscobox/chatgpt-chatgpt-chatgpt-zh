@@ -34,11 +34,14 @@
 
 
 5、N个优秀B站
+收集一批有干货、持续更新的B站
+
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
 | [大神 秋葉aaaki](https://space.bilibili.com/12566101?spm_id_from=333.337.0.0) | [AI次世代](https://space.bilibili.com/435304165) | [AIGC大玩家](https://space.bilibili.com/385236524) |
 | [莫烦Python](https://space.bilibili.com/243821484) | [计算机视觉life](https://space.bilibili.com/45189691/) | [极市平台](https://space.bilibili.com/85300886/) |
-| [爱可可-爱生活 微博同名](https://space.bilibili.com/23852932?spm_id_from=333.788.b_765f7570696e666f.2) |  |  |
+| [爱可可-爱生活 微博同名](https://space.bilibili.com/23852932?spm_id_from=333.788.b_765f7570696e666f.2) | [AIRS研究院](https://space.bilibili.com/602058860/)  | [JIG图图](https://space.bilibili.com/27032291/) |
+| [VALSE_Webinar](https://space.bilibili.com/562085182/) | [智源社区](https://space.bilibili.com/424100065/) | [微软科技](https://space.bilibili.com/110487933/) |
 
 N个优秀微博
 
