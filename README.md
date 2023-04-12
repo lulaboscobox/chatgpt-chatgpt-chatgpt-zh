@@ -231,7 +231,7 @@ N个优秀的国内网站
 | [人工智能实验室](https://www.ai-lab.cn/) | [AI算法工程师手册](https://www.bookstack.cn/) | [AI算法与图像处理](http://www.aiuai.cn/) |
 | [机器学习笔记](https://www.jianshu.com/u/7a3a1e9a0c8e) | [AI算法与图像处理](http://www.aiuai.cn/) | [AI算法工程师手册](https://www.bookstack.cn/) |
 | [Skymind](https://skymind.ai/zh) | [AI研习社](https://www.aiyanxishe.com/) | [机器学习实践](https://www.machinelearningpractice.com/) |
-| [AI算法与图像处理](http://www.aiuai.cn/) | [易观](https://www.analysys.cn/) | [机器学习实验室](https://www.ml-lab.net |
+| [AI算法与图像处理](http://www.aiuai.cn/) | [易观](https://www.analysys.cn/) | [机器学习实验室](https://www.ml-lab.net) |
 
 
 
