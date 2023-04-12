@@ -573,9 +573,9 @@ ChatGPT客户端（含Windows、Mac、Android）
 使用介绍：https://mp.weixin.qq.com/s/O3jk5wiGLN_m_zwlHUfIOw
 
 图片转提示词的工具网站
-逗砂：https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb
-Y024：有船员找到了另一个：https://replicate.com/pharmapsychotic/clip-interrogator                                     
-TC:再补一个：https://huggingface.co/spaces/pharma/CLIP-Interrogato
+https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb
+https://replicate.com/pharmapsychotic/clip-interrogator                                     
+https://huggingface.co/spaces/pharma/CLIP-Interrogato
 
 一份让 ChatGPT 给出优质回答的中文 Prompt（提示词） 指令合集
 https://newzone.top/chatgpt/cn
@@ -602,97 +602,22 @@ AI图片生成视频
 用AI生成的图片能说话了，还能做表情，参考案例：https://www.bilibili.com/video/BV1aM411x7Uu/
 使用工具网站：https://studio.d-id.com/ 
 
-帮你把简笔画变成惊艳美图的AI模型，分享者：杰克深-@向前组
+帮你把简笔画变成惊艳美图的AI模型，
 一个傻瓜式好玩diffusion，用鼠标随便划拉一下就能出图
 https://scribblediffusion.com/
 
-云端部署的Colab绘画脚本，分享者：Samson杉松-碧琳组
+云端部署的Colab绘画脚本
 包含常用的二次元模型和插件，访问地址：
 https://colab.research.google.com/drive/1LWNSVG75H_GAKTjYfSSrArYXbC8XwUQN?usp=share_link
 已设置和图片输出会保存到Google Drive，模型在线下载不占用网盘空间，分享给大家哈。运行后，初始化约几分钟，脚本最后会输出gradio.live结尾的网址，打开登录即可使用。
 帐号：shengcaiyoushu，密码：123
 
-可本地部署的AI画图软件（novelai-webui-aki-v3），分享者：巴菲-向前组
+可本地部署的AI画图软件（novelai-webui-aki-v3）
 网盘链接：https://pan.quark.cn/s/ec524459c5b9
 
-视频风格迁移工具，分享者：教练-逗砂
+视频风格迁移工具
 https://huggingface.co/spaces/fffiloni/ControlNet-Video
 
-ChatGPT 身份指令关键词
-ChatGPT身份指令关键词 
-
-画了个画中 - 艺术家作品和艺术风格
-画了个画中的艺术家作品和艺术风格.docx 
-
- AI 绘图热度关键词
-
-1）炫彩模型关键词（点击下述链接即可跳转）
-- 炫彩关键词1（图文）
-- 炫彩关键词2（图文）
-- 炫彩关键词3（图文）
-- 炫彩关键词4（图文）
-- 炫彩关键词5（图文）
-- 炫彩关键词6（图文）
-- 炫彩关键词7（图文）
-- 炫彩关键词8（图文）
-- 炫彩关键词9（图文）
-
-2）Disco Diffusion 模型关键词（点击下述链接即可跳转）
-- DD关键词1（图文）
-- DD关键词2（图文）
-- DD关键词3（图文）
-- DD关键词4（图文）
-- DD关键词5（图文）
-- DD关键词6（图文）
-
-3）动物写实关键词（点击下述链接即可跳转）
-- 动物写实1（图文）
-- 动物写实2（图文）
-- 动物写实3（图文）
-
-4）婚纱礼服关键词（点击下述链接即可跳转）
-- 婚纱1（图文）
-- 婚纱2（图文)
-- 婚纱3（图文）
-- 婚纱4（图文）
-- 婚纱5（图文）
-- 婚纱6（图文）
-
-5）二次元类目关键词（点击下述链接即可跳转）
-- 二次元词组分享
-- 二次元（图文）
-
-6）抖音爆款关键词（点击下述链接即可跳转）
-- 抖音爆款1（图文）
-- 快手爆款1（图文）
-
-7）人物关键词（点击下述链接即可跳转）
-- 人物关键词（图文）
-
-8）祈福关键词（点击下述链接即可跳转）
-- 祈福关键词（图文）
-
-9）十二生肖关键词（点击下述链接即可跳转）
-- 发财系列（图文）
-- 功夫系列 （图文）
-- 汉服系列（图文）
-- 铠甲系列（图文）
-- 唐装系列（图文）
-
-画了个画小程序
-[图片]
-
-画宇宙
-https://creator.nolibox.com
-
-描述词合集1（2022.09-10月）
-200个热度关键词 By 天辉 
-
-盗梦师网页版（同名小程序）
-https://printidea.art
-
-OpenAI
-OpenAI
 
 ChatGPT注册教程
 https://www.v2ex.com/t/900126
