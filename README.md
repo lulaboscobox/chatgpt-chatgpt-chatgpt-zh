@@ -34,7 +34,7 @@
 
 
 5、N个优秀B站
-收集一批有干货、持续更新的B站
+手工收集一批有干货、持续更新的B站
 
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
@@ -45,6 +45,21 @@
 | [knnstack](https://space.bilibili.com/246638813?spm_id_from=333.788.b_765f7570696e666f.2) | [AITIME论道](https://space.bilibili.com/503316308/) | [阿里达摩院扫地僧](https://space.bilibili.com/483104470/) |
 | [TechBeat人工智能社区](https://space.bilibili.com/209732435/) | [飞桨PaddlePaddle](https://space.bilibili.com/476867757/) | [公子龙龙龙](https://space.bilibili.com/492456340/) |
 
+ChatGPT给出的B站推荐，使用命令如下：
+`请给出中国bilibili网站上最好的AI类、机器学习类相关的10个博主，用markdown的方式列出一个表格，每个格子的内容是以博主名称为文字的超链接，同样是marndown格式`
+
+| 序号 | 博主名称 |
+| --- | ------ |
+| 1   | [莫烦Python](https://space.bilibili.com/99843120)      |
+| 2   | [林大佬带你学AI](https://space.bilibili.com/38737757)  |
+| 3   | [磐创AI](https://space.bilibili.com/381489299)        |
+| 4   | [AI有道](https://space.bilibili.com/49925657)        |
+| 5   | [AI科技大本营](https://space.bilibili.com/22783042)  |
+| 6   | [AI悦创](https://space.bilibili.com/364306035)        |
+| 7   | [AI算法与图像处理](https://space.bilibili.com/21468400)|
+| 8   | [AI蜗牛车](https://space.bilibili.com/12866735)      |
+| 9   | [AI前线](https://space.bilibili.com/1484870)         |
+| 10  | [AI达人](https://space.bilibili.com/1235640)         |
 
 N个优秀微博
 
