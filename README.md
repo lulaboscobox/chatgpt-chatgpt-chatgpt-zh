@@ -61,6 +61,83 @@ ChatGPT给出的B站推荐，使用命令如下：
 | 9   | [AI前线](https://space.bilibili.com/1484870)         |
 | 10  | [AI达人](https://space.bilibili.com/1235640)         |
 
+再优化一下命令：
+`请给出中国bilibili网站上最好的AI类、机器学习类、科技前沿类相关的100个博主，用markdown的方式列出一个2列的表格，第一列每个格子的内容是以博主名称为文字的超链接，同样是marndown格式，第二列每个格子的内容是博主的介绍，用几个关键词描述博主的特点优势。`
+| 博主名称 | 博主介绍 |
+| :---: | :---: |
+| [莫烦Python](https://space.bilibili.com/9983275) | Python教程, 机器学习, 深度学习 |
+| [小象学院](https://space.bilibili.com/290240038) | 大数据, 人工智能, 云计算 |
+| [刘二大人](https://space.bilibili.com/364225566) | 机器学习, 深度学习, 人工智能 |
+| [磐创AI](https://space.bilibili.com/22606039) | 人工智能, 机器学习, 计算机视觉 |
+| [派兰德](https://space.bilibili.com/434565010) | 人工智能, 机器学习, Python |
+| [AI派](https://space.bilibili.com/364225566) | 人工智能, 机器学习, 数据分析 |
+| [AI科技评论](https://space.bilibili.com/37663924) | 人工智能, 科技前沿, 产业趋势 |
+| [机器学习初学者](https://space.bilibili.com/38737757) | 机器学习, 深度学习, 算法 |
+| [泡泡机器人](https://space.bilibili.com/1784342) | 机器人, 人工智能, 机器学习 |
+| [AI悦创](https://space.bilibili.com/252028233) | 人工智能, 机器学习, Python |
+| [科技爱好者周刊](https://space.bilibili.com/20165629) | 科技前沿, 人工智能, 机器学习 |
+| [王喆的机器学习笔记](https://space.bilibili.com/21661496) | 机器学习, 数据挖掘, 深度学习 |
+| [瑞士卷猫](https://space.bilibili.com/3926770) | 人工智能, 机器学习, 计算机视觉 |
+| [机器之心](https://space.bilibili.com/161775300) | 人工智能, 机器学习, 科技前沿 |
+| [AI Insight](https://space.bilibili.com/49524332) | 人工智能, 机器学习, 产业趋势 |
+| [AI前线](https://space.bilibili.com/34681292) | 人工智能, 机器学习, 科技前沿 |
+| [萌兽学Python](https://space.bilibili.com/3211410) | Python, 人工智能, 机器学习 |
+| [AI蜗牛车](https://space.bilibili.com/2552130) | 人工智能, 机器学习, 深度学习 |
+| [李宏毅](https://space.bilibili.com/156412832) | 人工智能, 机器学习, 深度学习 |
+| [AI达人](https://space.bilibili.com/3895878) | 人工智能, 机器学习, 计算机视觉 |
+| [AI科技大本营](https://space.bilibili.com/290526283) | 人工智能, 机器学习, 科技前沿 |
+| [何之源](https://space.bilibili.com/281453312) | 人工智能, 机器学习, 深度学习 |
+| [AI黑板报](https://space.bilibili.com/150138095) | 人工智能, 机器学习, 数据分析 |
+| [AI大白](https://space.bilibili.com/27474981) | 人工智能, 机器学习, 计算机视觉 |
+| [AI先驱](https://space.bilibili.com/21374533) | 人工智能, 机器学习, 产业趋势 |
+| [AI研习社](https://space.bilibili.com/25280990) | 人工智能, 机器学习, 数据挖掘 |
+| [AI悟空](https://space.bilibili.com/390461123) | 人工智能, 机器学习, 计算机视觉 |
+| [AI科技圈](https://space.bilibili.com/398814547) | 人工智能, 机器学习, 科技前沿 |
+| [AI无忧](https://space.bilibili.com/4931462) | 人工智能, 机器学习, 数据分析 |
+| [AI研究者](https://space.bilibili.com/484293053) | 人工智能, 机器学习, 计算机视觉 |
+| [AI智库](https://space.bilibili.com/2802550) | 人工智能, 机器学习, 产业趋势 |
+| [AI博士](https://space.bilibili.com/4127386) | 人工智能, 机器学习, 深度学习 |
+| [AI学堂](https://space.bilibili.com/4741642) | 人工智能, 机器学习, 数据挖掘 |
+| [AI导航](https://space.bilibili.com/17000017) | 人工智能, 机器学习, 科技前沿 |
+| [AI技术圈](https://space.bilibili.com/2919624) | 人工智能, 机器学习, 数据分析 |
+| [AI研发者](https://space.bilibili.com/2976455) | 人工智能, 机器学习, 计算机视觉 |
+| [AI观察者](https://space.bilibili.com/3045460) | 人工智能, 机器学习, 产业趋势 |
+| [AI实验室](https://space.bilibili.com/3187858) | 人工智能, 机器学习, 深度学习 |
+| [AI研究院](https://space.bilibili.com/3360148) | 人工智能, 机器学习, 数据挖掘 |
+| [AI前哨](https://space.bilibili.com/3550102) | 人工智能, 机器学习, 科技前沿 |
+| [AI战队](https://space.bilibili.com/3786782) | 人工智能, 机器学习, 数据分析 |
+| [AI探索者](https://space.bilibili.com/4023766) | 人工智能, 机器学习, 计算机视觉 |
+| [AI先锋](https://space.bilibili.com/4287287) | 人工智能, 机器学习, 产业趋势 |
+| [AI研讨会](https://space.bilibili.com/4561238) | 人工智能, 机器学习, 深度学习 |
+| [AI大会](https://space.bilibili.com/4858410) | 人工智能, 机器学习, 数据挖掘 |
+| [AI之家](https://space.bilibili.com/5143447) | 人工智能, 机器学习, 科技前沿 |
+| [AI联盟](https://space.bilibili.com/5423319) | 人工智能, 机器学习, 数据分析 |
+| [AI研习坊](https://space.bilibili.com/5698475) | 人工智能, 机器学习, 计算机视觉 |
+| [AI研究所](https://space.bilibili.com/5974406) | 人工智能, 机器学习, 产业趋势 |
+| [AI学者](https://space.bilibili.com/6252207) | 人工智能, 机器学习, 深度学习 |
+| [AI教程](https://space.bilibili.com/6529108) | 人工智能, 机器学习, 数据挖掘 |
+| [AI导师](https://space.bilibili.com/6803209) | 人工智能, 机器学习, 科技前沿 |
+| [AI精英](https://space.bilibili.com/7077810) | 人工智能, 机器学习, 数据分析 |
+| [AI研究室](https://space.bilibili.com/7353382) | 人工智能, 机器学习, 计算机视觉 |
+| [AI论坛](https://space.bilibili.com/7627850) | 人工智能, 机器学习, 产业趋势 |
+| [AI学术圈](https://space.bilibili.com/7904275) | 人工智能, 机器学习, 深度学习 |
+| [AI教室](https://space.bilibili.com/8178716) | 人工智能, 机器学习, 数据挖掘 |
+| [AI研究生](https://space.bilibili.com/8452849) | 人工智能, 机器学习, 科技前沿 |
+| [AI培训班](https://space.bilibili.com/8723390) | 人工智能, 机器学习, 数据分析 |
+| [AI专家](https://space.bilibili.com/8994055) | 人工智能, 机器学习, 计算机视觉 |
+| [AI学院](https://space.bilibili.com/9264907) | 人工智能, 机器学习, 产业趋势 |
+| [AI实战](https://space.bilibili.com/9533679) | 人工智能, 机器学习, 深度学习 |
+| [AI课堂](https://space.bilibili.com/9806308) | 人工智能, 机器学习, 数据挖掘 |
+| [AI教育](https://space.bilibili.com/10077349) | 人工智能, 机器学习, 科技前沿 |
+| [AI讲堂](https://space.bilibili.com/10423529) | 人工智能, 机器学习, 数据分析 |
+| [AI学者联盟](https://space.bilibili.com/10768743) | 人工智能, 机器学习, 计算机视觉 |
+| [AI研讨](https://space.bilibili.com/11013975) | 人工智能, 机器学习, 产业趋势 |
+| [AI技术交流](https://space.bilibili.com/11259207) | 人工智能, 机器学习, 深度学习 |
+| [AI资源库](https://space.bilibili.com/11504449) | 人工智能, 机器学习, 数据挖掘 |
+| [AI实验室联盟](https://space.bilibili.com/11749691) | 人工智能, 机器学习, 科技前沿 |
+| [AI开发者社区](https://space.bilibili.com/11994933) | 人工智能, 机器学习, 数据分析 |
+| [AI领域](https://space.bilibili.com/12240175) | 人工智能, 机器学习, 计算机视觉 |
+
 N个优秀微博
 
 | 微博名称 | 微博名称 | 微博名称|
