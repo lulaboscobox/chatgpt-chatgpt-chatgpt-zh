@@ -176,12 +176,63 @@ N个优秀微博
 | [WeRandom](https://weibo.com/u/1758509357) | [AlgorithmDog](https://weibo.com/u/1679022231) |  |
 
 
+ChatGPT指令：
+`请给出中国微博网站上最好的AI类、机器学习类、科技前沿类相关的30个博主，用markdown的方式列出一个2列的表格，第一列每个格子的内容是以博主名称为文字的超链接，同样是marndown格式，第二列每个格子的内容是博主的介绍，10个字介绍描述博主的特点优势`
+| 博主名称 | 介绍 |
+| --- | --- |
+| [机器学习AI](https://weibo.com/u/2147524597) | 专注于AI技术与应用 |
+| [深度学习君](https://weibo.com/u/5582156776) | 深度学习资讯分享 |
+| [机器之心](https://weibo.com/u/2473626722) | AI科技媒体平台 |
+| [AI科技大本营](https://weibo.com/u/5909321239) | AI科技资讯分享 |
+| [AI前线](https://weibo.com/u/5958058356) | 探讨AI技术前沿 |
+| [机器学习100](https://weibo.com/u/5868455570) | 机器学习领域资讯 |
+| [科技美学](https://weibo.com/u/1642904381) | 科技前沿资讯分享 |
+| [AI研习社](https://weibo.com/u/5909675697) | AI技术教育平台 |
+| [人工智能头条](https://weibo.com/u/6016849949) | AI行业资讯报道 |
+| [极市平台](https://weibo.com/u/6251293710) | 人工智能视觉技术 |
+| [AI算法岗](https://weibo.com/u/6258466509) | AI算法资讯分享 |
+| [AI算法与图像处理](https://weibo.com/u/6070995083) | 图像处理技术研究 |
+| [AI研发工程师](https://weibo.com/u/6049695886) | AI技术交流平台 |
+| [机器学习与数据挖掘](https://weibo.com/u/2443510260) | 数据挖掘技术讨论 |
+| [AI芯片那点事](https://weibo.com/u/6587212010) | AI芯片行业资讯 |
+| [AI商业化](https://weibo.com/u/5908664566) | AI商业应用探讨 |
+| [AI矽芯](https://weibo.com/u/5880374636) | 人工智能芯片技术 |
+| [AI工程师](https://weibo.com/u/6021628917) | AI技术与应用分享 |
+| [AI技术创新](https://weibo.com/u/6056527162) | 人工智能技术创新 |
+| [AI算法研究](https://weibo.com/u/6059576485) | AI算法研究与分享 |
+| [AI驾驶](https://weibo.com/u/6038631800) | 自动驾驶技术资讯 |
+| [AI医疗](https://weibo.com/u/6038631800) | AI医疗技术探讨 |
+| [AI教育](https://weibo.com/u/6038631800) | AI教育技术应用 |
+| [AI语音识别](https://weibo.com/u/6038631800) | 语音识别技术研究 |
+| [AI安防](https://weibo.com/u/6038631800) | AI安防技术应用 |
+| [AI金融](https://weibo.com/u/6038631800) | AI金融技术探讨 |
+| [AI法律](https://weibo.com/u/6038631800) | AI法律技术应用 |
+| [AI农业](https://weibo.com/u/6038631800) | AI农业技术探讨 |
+| [AI旅游](https://weibo.com/u/6038631800) | AI旅游技术应用 |
+| [AI艺术](https://weibo.com/u/6038631800) | AI艺术技术探讨 |
+
 
 N个优秀的国内网站
-| B站名称 | B站名称 | B站名称|
+| 网站名称 | 网站名称 | 网站名称|
 | - | - | - |
 | [量子位（公众号同名）](https://www.qbitai.com/) | [36氪](https://36kr.com/) |  |
-|  |  |  |
+
+自己越来越懒的找了，人类的天性啊，毁灭吧ChatGPT~
+指令`请列出30个中国优秀的AI、科技、机器学习类的知识学习网站或博客，用markdown格式输出3列表格，每个格子的内容是以网站名称为文字的网站超链接`
+| 网站名称 | 网站名称 | 网站名称|
+| :---: | :---: | :---: |
+| [机器之心](https://www.jiqizhixin.com/) | [AI研习社](https://www.aiyanxishe.com/) | [科学网](http://www.sciencenet.cn/) |
+| [雷锋网](https://www.leiphone.com/) | [36氪](https://36kr.com/) | [量子位](https://www.qbitai.com/) |
+| [AI科技大本营](https://www.aiweibang.com/) | [虎嗅网](https://www.huxiu.com/) | [深度科技](https://www.deep-technology.com/) |
+| [InfoQ](https://www.infoq.cn/) | [CSDN](https://www.csdn.net/) | [博客园](https://www.cnblogs.com/) |
+| [AI前线](http://www.aiqianxian.com/) | [AI蜗牛车](https://www.aiwonaiche.com/) | [AI学习社](https://www.aixuexishe.com/) |
+| [AI研习社](https://www.aiyanxishe.com/) | [机器学习实践](https://www.machinelearningpractice.com/) | [Python中文网](https://www.py.cn/) |
+| [AI算法与图像处理](http://www.aiuai.cn/) | [易观](https://www.analysys.cn/) | [机器学习实验室](https://www.ml-lab.net/) |
+| [人工智能实验室](https://www.ai-lab.cn/) | [AI算法工程师手册](https://www.bookstack.cn/) | [AI算法与图像处理](http://www.aiuai.cn/) |
+| [机器学习笔记](https://www.jianshu.com/u/7a3a1e9a0c8e) | [AI算法与图像处理](http://www.aiuai.cn/) | [AI算法工程师手册](https://www.bookstack.cn/) |
+| [Skymind](https://skymind.ai/zh) | [AI研习社](https://www.aiyanxishe.com/) | [机器学习实践](https://www.machinelearningpractice.com/) |
+| [AI算法与图像处理](http://www.aiuai.cn/) | [易观](https://www.analysys.cn/) | [机器学习实验室](https://www.ml-lab.net |
+
 
 
 其他学习资料
