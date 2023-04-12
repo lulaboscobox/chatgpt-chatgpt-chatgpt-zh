@@ -247,8 +247,22 @@ N个优秀的国内网站
 N个优秀的国外网站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
-| [创意技术文摘](https://creativetechnologydigest.substack.com/) | [ACM通讯](https://cacm.acm.org/) | 网易智能 |
-| 量子位 | 学姐带你玩AI | 夕小瑶的卖萌屋 |
+| [创意技术文摘](https://creativetechnologydigest.substack.com/) | [ACM通讯](https://cacm.acm.org/) |   |
+
+
+ChatGPT生成指令`请列出30个优秀的以英文为语言的AI、科技、机器学习类的知识学习网站，用markdown格式输出3列表格，每个格子的内容是以网站名称为文字的网站超链接`
+| Website name | Website name | Website name |
+|--------------------------------------------------------|--------------------------------------------------------------|----------------------------------------|
+| [Towards Data Science](https://towardsdatascience.com) | [Machine Learning Mastery](https://machinelearningmastery.com) | [KDnuggets](https://www.kdnuggets.com) |
+| [Analytics Vidhya](https://www.analyticsvidhya.com)     | [DeepAI](https://deepai.org)                                 | [OpenAI](https://openai.com)           |
+| [Google AI Blog](https://ai.googleblog.com)            | [Facebook AI](https://ai.facebook.com)                       | [IBM Research AI](https://www.ibm.com/ibm-ai) |
+| [MIT News AI](http://news.mit.edu/topic/artificial-intelligence2) | [Stanford AI Lab](https://ai.stanford.edu/blog)          | [Microsoft AI Blog](https://blogs.microsoft.com/ai) |
+| [Distill](https://distill.pub)                          | [O'Reilly AI](https://www.oreilly.com/topics/ai)            | [AI Trends](https://aitrends.com)       |
+| [AI Weekly](https://aiweekly.co)                        | [AI in Healthcare](https://www.aiin.healthcare)             | [Synced](https://syncedreview.com)      |
+| [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg) | [Two Minute Papers](https://www.youtube.com/user/keeroyz) | [Lex Fridman](https://www.youtube.com/c/LexFridman1) |
+| [DataCamp](https://www.datacamp.com)                    | [Coursera](https://www.coursera.org/courses?query=ai)       | [EdX](https://www.edx.org/learn/artificial-intelligence) |
+| [Fast.AI](https://www.fast.ai)                          | [Neural Information Processing Systems](https://nips.cc)    | [International Conference on Learning Representations](https://iclr.cc) |
+| [Association for Computational Linguistics](https://www.aclweb.org) | [AAAI Conference](https://www.aaai.org)                 | [European Conference on Artificial Intelligence](https://www.eurai.org) |
 
 
 5、100个调教示例
