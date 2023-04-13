@@ -3,6 +3,16 @@
 1、50个免费网站收集 
 [https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f](https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f)
 
+列出几个免费站，且用且珍惜：
+1. [http://chatai.fyi](http://chatai.fyi/)
+2. [https://freechatgpt.chat/](https://freechatgpt.chat/)
+3. [https://gpt.tool00.com/](https://gpt.tool00.com/)
+4. [https://chat.geekr.dev/](https://chat.geekr.dev/)
+5. [https://desk.im](https://desk.im/)
+6. [https://xc.com/](https://xc.com/)
+7. [https://chat.51buygpt.com/](https://chat.51buygpt.com/)
+8. [http://chat.apigpt.cn/](http://chat.apigpt.cn/)
+
 真正免费且可用的网站越来越少，抓紧收藏
 
 2.赚钱思路的N个案例
