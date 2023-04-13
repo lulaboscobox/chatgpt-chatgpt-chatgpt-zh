@@ -5,15 +5,15 @@
 
 真正免费且可用的网站越来越少，抓紧收藏
 
-2.赚钱思路的100+案例
-
+2.赚钱思路的N个案例
+待输出
 
 
 3、N个优秀的ChatGPT调教指令网站
 
 | 指令网站 | 指令网站 | 指令网站 |
 | - | - | - |
-| https://www.explainthis.io/zh-hans/chatgpt | | |
+| https://www.explainthis.io/zh-hans/chatgpt | https://www.aishort.top/ | |
 
 4、N个AI优秀公众号
 
