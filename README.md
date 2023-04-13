@@ -1,6 +1,6 @@
 ## 汇集ChatGPT的学习信息，不焦虑但也不忽视，不蛮干但也不当鸵鸟！
 
-# 1、50个免费网站收集 
+# 1、50个免费网站
 [https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f](https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f)
 
 列出几个免费站，且用且珍惜：
@@ -12,6 +12,8 @@
 6. [https://xc.com/](https://xc.com/)
 7. [https://chat.51buygpt.com/](https://chat.51buygpt.com/)
 8. [http://chat.apigpt.cn/](http://chat.apigpt.cn/)
+
+再推荐一个，https://flowgpt.com/ ，这是个大站，注册用Linkedin无需特殊网络
 
 
 # 2.赚钱思路的N个案例
