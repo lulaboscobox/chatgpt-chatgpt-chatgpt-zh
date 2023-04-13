@@ -25,7 +25,7 @@
 | 指令网站 | 指令网站 | 指令网站 |
 | - | - | - |
 | https://www.explainthis.io/zh-hans/chatgpt | https://www.aishort.top/ | http://www.srxbkzs.com/ |
-| https://www.ainav.cn/ | prompthero.com | 
+| https://www.ainav.cn/ | http://prompthero.com | 
 
 
 # 4、N个优秀的AI导航站
