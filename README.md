@@ -610,7 +610,7 @@ ChatGPT注册教程
 https://www.v2ex.com/t/900126
 
 
-## 简单使用，把ChatGpt当作搜索引擎
+## 简单使用，把ChatGPT当作搜索引擎
 
 `如何对chatgpt进行结构化的提问，以获得更准确、更全面的回答，请以常见的50个不同职业为例，讲解它们可以对chatgpt提出什么样的问题：当向ChatGPT提问时，确保问题清晰、具体且结构化，以便获得更准确、全面的回答。`
 
@@ -717,7 +717,7 @@ https://www.v2ex.com/t/900126
 50. 数学家：如何求解二次方程？
 
 
-调教指令收集：
+## 进阶调教指令：
 
 ## 担任雅思写作考官
 >  "我希望你假定自己是雅思写作考官，根据雅思评判标准，按我给你的雅思考题和对应答案给我评分，并且按照雅思写作评分细则给出打分依据。此外，请给我详细的修改意见并写出满分范文。第一个问题是：It is sometimes argued that too many students go to university, while others claim that a university education should be a universal right.Discuss both sides of the argument and give your own opinion.对于这个问题，我的答案是：In some advanced countries, it is not unusual for more than 50% of young adults to attend college or university. Critics, however, claim that many university courses are worthless and young people would be better off gaining skills in the workplace. In this essay, I will examine both sides of this argument and try to reach a conclusion.There are several reasons why young people today believe they have the right to a university education. First, growing prosperity in many parts of the world has increased the number of families with money to invest in their children’s future. At the same time, falling birthrates mean that one- or two-child families have become common, increasing the level of investment in each child. It is hardly surprising, therefore, that young people are willing to let their families support them until the age of 21 or 22. Furthermore, millions of new jobs have been created in knowledge industries, and these jobs are typically open only to university graduates.However, it often appears that graduates end up in occupations unrelated to their university studies. It is not uncommon for an English literature major to end up working in sales, or an engineering graduate to retrain as a teacher, for example. Some critics have suggested that young people are just delaying their entry into the workplace, rather than developing professional skills.请依次给到我以下内容：具体分数及其评分依据、文章修改意见、满分范文。"
