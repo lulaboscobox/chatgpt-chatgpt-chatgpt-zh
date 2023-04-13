@@ -15,6 +15,14 @@
 | - | - | - |
 | https://www.explainthis.io/zh-hans/chatgpt | https://www.aishort.top/ | |
 
+
+N个优秀的AI导航站
+
+| 导航网站 | 导航网站 | 导航网站 |
+| - | - | - |
+| https://www.aicangshu.net/ |  | |
+
+
 4、N个AI优秀公众号
 
 手工收集，目前都是在更新的，如有断更的欢迎反馈给我
