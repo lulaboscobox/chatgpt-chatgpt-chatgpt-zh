@@ -1,6 +1,6 @@
 ## 汇集ChatGPT的学习信息，不焦虑但也不忽视，不蛮干但也不当鸵鸟！
 
-1、50个免费网站收集 
+# 1、50个免费网站收集 
 [https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f](https://tomda.notion.site/ChatGPT-70-37b5f879b37748e68a04ed9cfe25898f)
 
 列出几个免费站，且用且珍惜：
@@ -13,13 +13,12 @@
 7. [https://chat.51buygpt.com/](https://chat.51buygpt.com/)
 8. [http://chat.apigpt.cn/](http://chat.apigpt.cn/)
 
-真正免费且可用的网站越来越少，抓紧收藏
 
-2.赚钱思路的N个案例
+# 2.赚钱思路的N个案例
 待输出
 
 
-3、N个优秀的ChatGPT调教指令网站
+# 3、N个优秀的ChatGPT调教指令网站
 
 | 指令网站 | 指令网站 | 指令网站 |
 | - | - | - |
@@ -27,7 +26,7 @@
 | https://www.ainav.cn/ | prompthero.com | 
 
 
-N个优秀的AI导航站
+# 4、N个优秀的AI导航站
 
 | 导航网站 | 导航网站 | 导航网站 |
 | - | - | - |
@@ -37,7 +36,7 @@ N个优秀的AI导航站
 | https://www.futurepedia.io/ | https://17yongai.com/ | https://www.ainav.cn/ | 
 
 
-4、N个AI优秀公众号
+# 5、N个AI优秀公众号
 
 手工收集，目前都是在更新的，如有断更的欢迎反馈给我
 
@@ -72,7 +71,7 @@ N个优秀的AI导航站
 |  人工智能与语音识别  |  机器学习与智能制造  |  AI与智能家居   |
 
 
-5、N个优秀B站
+# 6、N个优秀B站
 手工收集一批有干货、持续更新的B站
 
 | B站名称 | B站名称 | B站名称|
@@ -177,7 +176,7 @@ ChatGPT给出的B站推荐，使用命令如下：
 | [AI开发者社区](https://space.bilibili.com/11994933) | 人工智能, 机器学习, 数据分析 |
 | [AI领域](https://space.bilibili.com/12240175) | 人工智能, 机器学习, 计算机视觉 |
 
-N个优秀微博
+# 7、N个优秀微博
 
 | 微博名称 | 微博名称 | 微博名称|
 | - | - | - |
@@ -185,7 +184,7 @@ N个优秀微博
 | [WeRandom](https://weibo.com/u/1758509357) | [AlgorithmDog](https://weibo.com/u/1679022231) |  |
 
 
-ChatGPT指令：
+ChatGPT生成：
 `请给出中国微博网站上最好的AI类、机器学习类、科技前沿类相关的30个博主，用markdown的方式列出一个2列的表格，第一列每个格子的内容是以博主名称为文字的超链接，同样是marndown格式，第二列每个格子的内容是博主的介绍，10个字介绍描述博主的特点优势`
 | 博主名称 | 介绍 |
 | --- | --- |
@@ -221,10 +220,11 @@ ChatGPT指令：
 | [AI艺术](https://weibo.com/u/6038631800) | AI艺术技术探讨 |
 
 
-N个优秀的国内网站
+# 8、N个优秀的国内网站
 | 网站名称 | 网站名称 | 网站名称|
 | - | - | - |
 | [量子位（公众号同名）](https://www.qbitai.com/) | [36氪](https://36kr.com/) |  |
+| [吴恩达 神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2001392029&_trace_c_p_k2_=f85e75aff6924c14ad1e52555ad33ab1#/info) | [莫烦博客](https://mofanpy.com/) |  |
 
 自己越来越懒的找了，人类的天性啊，毁灭吧ChatGPT~
 指令`请列出30个中国优秀的AI、科技、机器学习类的知识学习网站或博客，用markdown格式输出3列表格，每个格子的内容是以网站名称为文字的网站超链接`
@@ -244,16 +244,8 @@ N个优秀的国内网站
 
 
 
-其他学习资料
 
-| 资料名称 | 资料名称 | 资料名称|
-| - | - | - |
-| [吴恩达 神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2001392029&_trace_c_p_k2_=f85e75aff6924c14ad1e52555ad33ab1#/info) | [莫烦博客](https://mofanpy.com/) |  |
-|  |  |  |
-
-
-
-N个优秀的国外网站
+# 9、N个优秀的国外网站
 | B站名称 | B站名称 | B站名称|
 | - | - | - |
 | [创意技术文摘](https://creativetechnologydigest.substack.com/) | [ACM通讯](https://cacm.acm.org/) |   |
@@ -275,100 +267,12 @@ ChatGPT生成指令`请列出30个优秀的以英文为语言的AI、科技、�
 
 
 
-
-AI工具合集
-【上图中】网站汇总
-📝AI文本
-ChatGPT：https://chat.openai.com/
-NotionAI：Notion AI
-A.I. Data Sidekick：AI工具编写 SQL、文档等的速度提高10倍
-AirOps | Data unlocked. ‍10x faster with AI.
-Writesonic：人工智能写作辅助工具
-Writesonic - Best AI Writer, Copywriting & Paraphr...
-copy.ai：使用 AI 编写更好的营销文案和内容
-Copy.ai: Write better marketing copy and content w...
-Character.AI：AI人工交互
-https://beta.character.ai/
-Fireflies：该工具可插入 Zoom、Teams 或 Webex 等流行的视频会议工具，并自动执行做笔记和创建转录的过程
-Fireflies.ai | AI notetaker to transcribe, summari...
-Jasper： AI文案写作工具
-Jasper - AI Copywriter | AI Content Generator for ...
-Outplay：Outplay: Sales Engagement & Sales Automation Platf...
-CoWriter：AI辅助写作
-Co Writer - your AI platform for creative writing
-
-🎨AI绘画
-Midjourney：AI绘画神器
-网站：Midjourney
-教程：超详细！AI 绘画神器 Midjourney 基础使用手册 - 优设网 - 学设计上优设
-PhotoRoom：擦除任何背景、对象
-PhotoRoom - Remove Background and Create Product P...
-造梦师：只需一句话，让你的文字变成画作
-造梦日记 - AI一下，妙笔生画
-ARC Lab：一款提供照片修复、抠图、画质增强的在线工具
-ARC官网-腾讯
-Artbreeder：人工智能合成创意工具
-Artbreeder
-Stockimg AI：生成各种各样的设计元素,包括logo、插画、图片壁纸等
-Stockimg AI
-niji·journey：二次元ai绘画
-niji・journey
-Getimg.ai：关键词生成图片的AI工具
-https://getimg.ai/
-Dreamlike.art：AI图像生成
-Free AI Art Generator, AI Art Maker | Stable Diffu...
-文心一格 飞桨：AI艺术和创意辅助平台
-文心一格 - AI艺术和创意辅助平台
-Phygital+：AI图像生成
-Phygital 
-Beautiful.ai：AI生成PPT
-Presentation Software | Basic to Beautiful in Minu...
-
-🎶AI音频
-Brain.fm：专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐
-Music to Focus Better - Brain.fm
-Soundraw：人工智障生成音乐
-AI Music Generator - SOUNDRAW
-Endel：个性化背景音，帮助您集中注意力、放松和睡眠
-Endel - Personalized soundscapes to help you focus...
-Riffusion：实时音乐和音频生成库
-Riffusion
-GitHub - riffusion/riffusion: Stable diffusion for...
-Papercup：人工智障配音和视频翻译软件
-Papercup - AI Dubbing and Video Translation Softwa...
-LALAL.AI：从任何音频和视频中提取人声、伴奏和各种乐器
-Vocal Remover & Instrumental AI Splitter | LALAL.A...
-Murf：使用多功能AI语音生成器从文本到语音
-AI Voice Generator: Versatile Text to Speech Softw...
-PolyAI：语音助手
-Customer-Led Voice Assistants | PolyAI
-Voicemod：语音实时变声器
-免費即時變聲器 - Voicemod
-Boomy：人工智障生成音乐
-Boomy - Make Generative Music with Artificial Inte...
-Mubert：人工智障生成音乐
-Mubert - Thousands of Staff-Picked Royalty-Free Mu...
-
-🎞AI视频
-Runway： AI 魔法工具
-Runway - Everything you need to make anything you ...
-Cascadeur：人工智障辅助关键帧动画软件
-Cascadeur - the easiest way to animate AI-assisted...
-Synthesia：人工智障视频生成
-Synthesia | #1 AI Video Generation Platform
-Pollinations：文本转视频、图片
-Pollinations.AI
-Zubtitle：为视频添加字幕和在线编辑视频
-Zubtitle - Add Subtitles to Videos & Edit Videos O...
-Munch：人工智障提取视频中的最引人入胜、最流行和最有影响力的片段
-Home
-#行业风向#
-
-5、100个调教示例
+# 10、AI工具合集
+待补充
 
 
-6、ChatGPT插件工具
-## 插件和扩展
+# 11、ChatGPT插件工具
+来自网络收集
 
 - Chrome 扩展
 
@@ -658,8 +562,8 @@ Home
 
     计算使用 OpenAI GPT-3.5 API 生成特定数量单词的成本。
     
-   
-ChatGPT、AI绘画学习资料
+
+# 12、ChatGPT、AI绘画学习资料
 
 所有跟ChatGPT相关的插件合集
 ChatGPT相关插件 
@@ -680,22 +584,6 @@ https://huggingface.co/spaces/pharma/CLIP-Interrogato
 https://newzone.top/chatgpt/cn
 https://www.explainthis.io/zh-hans/chatgpt
 
-ChatGPT 喂数据生成图片
-让ChatGPT去学习的中途网站：
-https://docs.midjourney.com/docs/prompts 
-https://docs.midjourney.com/docs/explore-prompting 
-https://docs.midjourney.com/docs/models
-https://docs.midjourney.com/docs/parameter-list
-https://docs.midjourney.com/docs/aspect-ratios 
-https://docs.midjourney.com/docs/chaos
-https://docs.midjourney.com/docs/quality
-https://docs.midjourney.com/docs/seeds 
-https://docs.midjourney.com/docs/stop
-https://docs.midjourney.com/docs/style
-https://docs.midjourney.com/docs/tile 
-https://docs.midjourney.com/docs/model-versions 
-https://docs.midjourney.com/docs/video 
-https://docs.midjourney.com/docs/multi-prompts
 
 AI图片生成视频
 用AI生成的图片能说话了，还能做表情，参考案例：https://www.bilibili.com/video/BV1aM411x7Uu/
@@ -722,7 +610,7 @@ ChatGPT注册教程
 https://www.v2ex.com/t/900126
 
 
-## 简单使用，把ChatGPT当作搜索引擎
+# 13、简单调教使用，把ChatGPT当作搜索引擎
 
 `如何对chatgpt进行结构化的提问，以获得更准确、更全面的回答，请以常见的50个不同职业为例，讲解它们可以对chatgpt提出什么样的问题：当向ChatGPT提问时，确保问题清晰、具体且结构化，以便获得更准确、全面的回答。`
 
@@ -829,7 +717,8 @@ https://www.v2ex.com/t/900126
 50. 数学家：如何求解二次方程？
 
 
-## 进阶调教指令：
+# 14、进阶调教指令：
+来自网络收集
 
 ## 担任雅思写作考官
 >  "我希望你假定自己是雅思写作考官，根据雅思评判标准，按我给你的雅思考题和对应答案给我评分，并且按照雅思写作评分细则给出打分依据。此外，请给我详细的修改意见并写出满分范文。第一个问题是：It is sometimes argued that too many students go to university, while others claim that a university education should be a universal right.Discuss both sides of the argument and give your own opinion.对于这个问题，我的答案是：In some advanced countries, it is not unusual for more than 50% of young adults to attend college or university. Critics, however, claim that many university courses are worthless and young people would be better off gaining skills in the workplace. In this essay, I will examine both sides of this argument and try to reach a conclusion.There are several reasons why young people today believe they have the right to a university education. First, growing prosperity in many parts of the world has increased the number of families with money to invest in their children’s future. At the same time, falling birthrates mean that one- or two-child families have become common, increasing the level of investment in each child. It is hardly surprising, therefore, that young people are willing to let their families support them until the age of 21 or 22. Furthermore, millions of new jobs have been created in knowledge industries, and these jobs are typically open only to university graduates.However, it often appears that graduates end up in occupations unrelated to their university studies. It is not uncommon for an English literature major to end up working in sales, or an engineering graduate to retrain as a teacher, for example. Some critics have suggested that young people are just delaying their entry into the workplace, rather than developing professional skills.请依次给到我以下内容：具体分数及其评分依据、文章修改意见、满分范文。"
